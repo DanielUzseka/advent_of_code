@@ -50,3 +50,9 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+#own
+AdventOfCode/x64/*
+AdventOfCode/AdventOfCode/x64*
+*.opendb
+*/.vs/*
