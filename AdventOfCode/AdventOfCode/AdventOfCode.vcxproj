@@ -145,6 +145,7 @@
     <ClInclude Include="day2.h" />
     <ClInclude Include="day3.h" />
     <ClInclude Include="day4.h" />
+    <ClInclude Include="day5.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="AdventOfCode.c" />
@@ -152,6 +153,7 @@
     <ClCompile Include="day2.c" />
     <ClCompile Include="day3.c" />
     <ClCompile Include="day4.c" />
+    <ClCompile Include="day5.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
