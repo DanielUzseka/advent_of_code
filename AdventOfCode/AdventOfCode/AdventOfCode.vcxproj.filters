@@ -24,6 +24,9 @@
     <ClInclude Include="day3.h">
       <Filter>Source Files</Filter>
     </ClInclude>
+    <ClInclude Include="day4.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="AdventOfCode.c">
@@ -36,6 +39,9 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="day3.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="day4.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
