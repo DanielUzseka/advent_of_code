@@ -143,6 +143,7 @@
   <ItemGroup>
     <ClInclude Include="day1.h" />
     <ClInclude Include="day10.h" />
+    <ClInclude Include="day11.h" />
     <ClInclude Include="day2.h" />
     <ClInclude Include="day3.h" />
     <ClInclude Include="day4.h" />
@@ -156,6 +157,7 @@
     <ClCompile Include="AdventOfCode.c" />
     <ClCompile Include="day1.c" />
     <ClCompile Include="day10.c" />
+    <ClCompile Include="day11.c" />
     <ClCompile Include="day2.c" />
     <ClCompile Include="day3.c" />
     <ClCompile Include="day4.c" />
