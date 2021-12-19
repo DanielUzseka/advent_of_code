@@ -48,7 +48,10 @@ void main(void)
 	//day11_2();
 
 	//day12_1();
-	day12_2();
+	//day12_2();
+
+	//day13_1();
+	day13_2();
 
 	return;
 
